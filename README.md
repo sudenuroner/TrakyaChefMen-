@@ -1,2 +1,2 @@
-# TrakyaChefMen-
+# TrakyaChefMenu
 Trakya Chef QR Menü
